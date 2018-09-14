@@ -1,5 +1,6 @@
 body,html {
     background-color: rgb(13, 212, 185);
+    font-family: 'Roboto', sans-serif;
 }
 
 p {
@@ -12,4 +13,30 @@ color: grey;
 
 #content-wrapper{
 width:600px;
+}
+
+h1 {font-family: 'Roboto Condensed', sans-serif;
+}
+
+i{
+    font-size:40px
+}
+
+#content-wrapper{
+    width:600px;
+    margin:0 auto;
+}
+
+img {
+display: block;
+margin:0 auto;
+border:5px solid white;
+border-radius: 300px;
+}
+
+ul >li{
+    display: inline;
+    margin: 0 5px 0 5px;
+    width:00px;
+    margin:0 auto;
 }
